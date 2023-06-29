@@ -1,4 +1,41 @@
-                    GNU AFFERO GENERAL PUBLIC LICENSE
+Tillæg til AGPL-licensen: Database- og Dataschemaændringer
+
+Dette tillæg ("Tillæg") til GNU Affero General Public License version 3 ("AGPL") gælder for ethvert program eller værk, der er beskyttet af AGPL-licensen ("Værket"), og supplerer vilkårene og betingelserne i AGPL-licensen. Alle vilkår og betingelser i AGPL-licensen gælder fortsat for Værket, medmindre der udtrykkeligt er fravigelser eller modstridende bestemmelser angivet i dette Tillæg.
+
+Omfang af licensen
+
+a. Database-schemaændringer: Enhver ændring, der foretages i det oprindelige eller eksisterende database-schema for Værket, er omfattet af AGPL-licensen. Dette inkluderer tilføjelse, fjernelse eller ændring af tabeller, felter, relationer eller andre strukturelle elementer i databasen, der er defineret af Værket.
+
+b. Dataændringer: Ethvert ændring, der foretages i den indsamlede, indtastede eller genererede data i forbindelse med Værket, er omfattet af AGPL-licensen. Dette inkluderer tilføjelse, fjernelse eller ændring af eksisterende dataelementer eller datasæt, der er en del af Værket.
+
+c. Ændringer foretaget i databasen: Enhver ændring, der foretages direkte i selve databasen efter indlæsning af det oprindelige eller eksisterende schema og data, er også omfattet af AGPL-licensen. Dette inkluderer ændringer, der udføres på eksisterende data, såsom opdateringer, sletninger eller indsættelser af nye dataelementer.
+
+Deling af ændringer
+
+a. Ved distribution af Værket eller dets ændrede versioner skal du sikre, at både det oprindelige eller eksisterende database-schema, ændringer i databasen og eventuelle ændringer i dataene er tilgængelige i en form, der gør det muligt for andre at reproducere, analysere og modificere dem i overensstemmelse med vilkårene i AGPL-licensen.
+
+b. Du skal give klare og tydelige instruktioner om, hvordan man gendanner eller genskaber det database-schema, der er i brug, og hvordan man implementerer ændringerne i databasen og dataene, når Værket distribueres eller stilles til rådighed for andre.
+
+Integritet og forfatterskab
+
+a. Ændringer i database-schemaet, data eller databasen må ikke fjerne eller skjule oplysninger om ophavsret, licenser eller rettighedsindehavere, der er angivet i det oprindelige Værk.
+
+b. Ethvert værk, der er afledt af eller baseret på Værket, herunder ændringer i database-schemaet, data eller databasen, skal tydeligt angive, at det er en ændret.
+
+AGPL Netværkseffekt
+
+a. AGPL-licensen omfatter og understøtter en netværkseffekt, der sikrer, at ændringer foretaget på Værket og dets database-schema og data forbliver åbne og tilgængelige for samfundet. Ved at bruge eller distribuere Værket bidrager du til et økosystem, hvor fællesskabet kan bygge videre på hinandens ændringer og forbedringer.
+
+b. Enhver ændring, der foretages i database-schemaet, data eller databasen og efterfølgende distribueres i et netværksmiljø, skal også være omfattet af AGPL-licensen. Dette sikrer, at de videreudviklede versioner og udvidelser af Værket fortsat forbliver åbne og tilgængelige for andre brugere og bidragydere.
+
+c. AGPL-netværkseffekten opfordrer til samarbejde og gensidig fordel blandt udviklere og bidragydere, da det skaber incitamentet til at dele og forbedre ændringer i database-schemaet, data og databasen til gavn for hele samfundet.
+
+Underskrift:
+
+MapCentia, 2023
+
+
+                   GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
