@@ -6,7 +6,7 @@ Omfang af licensen
 
 a. Database-schemaændringer: Enhver ændring, der foretages i det oprindelige eller eksisterende database-schema for Værket, er omfattet af AGPL-licensen. Dette inkluderer tilføjelse, fjernelse eller ændring af tabeller, felter, relationer eller andre strukturelle elementer i databasen, der er defineret af Værket.
 
-b. Dataændringer: Ethvert ændring, der foretages i den indsamlede, indtastede eller genererede data i forbindelse med Værket, er omfattet af AGPL-licensen. Dette inkluderer tilføjelse, fjernelse eller ændring af eksisterende dataelementer eller datasæt, der er en del af Værket.
+b. Dataændringer: Enhver ændring, der foretages i de oprindelige eller eksisterende data i Værket, er omfattet af AGPL-licensen. Dette inkluderer tilføjelse, fjernelse eller ændring af eksisterende dataelementer eller datasæt, der er en del af Værket.
 
 c. Ændringer foretaget i databasen: Enhver ændring, der foretages direkte i selve databasen efter indlæsning af det oprindelige eller eksisterende schema og data, er også omfattet af AGPL-licensen. Dette inkluderer ændringer, der udføres på eksisterende data, såsom opdateringer, sletninger eller indsættelser af nye dataelementer.
 
